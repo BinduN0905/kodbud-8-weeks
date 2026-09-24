@@ -1,2 +1,2 @@
-# kodbud 8 weeks
-
+# simple calculator
+task 1
